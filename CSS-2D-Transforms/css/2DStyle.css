@@ -1,0 +1,32 @@
+.box1{
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color: blue;
+    /* transform: translate(100px, 100px); */
+    /* transform: rotate(-10deg); */
+    transform: matrix(1,-0.3,0,1,0,0);
+}
+
+.box2{
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color: green;
+    transform: matrix(1,0.3,0,1,0,0);
+    /* transform: scaleY(1); */
+}
+.box3{
+    width: 300px;
+    height: 300px;
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color: gold;
+    transform: skew(0deg, 0deg);
+}
+
+body{
+    margin: 100px;
+}

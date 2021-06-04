@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    color: red;
+}
+
+p{
+    text-align: center;
+    font-size: 2rem;
+}
+a{
+    text-transform: uppercase;
+    color: gold;
+    font-size: 2rem;
+}
+
+
+
+/* pre{
+    text-align: center;
+    font-size: 32px;
+} */

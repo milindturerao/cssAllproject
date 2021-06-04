@@ -1,0 +1,33 @@
+.box1{
+    width: 200px;
+    height: 200px;
+    background-color: gold;
+    margin: 50px;
+    display: inline-block;
+    /* float: left;  */
+    /* position: relative; */
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color:rgba(3,4,3, 0.4);
+     margin: 50px;
+     display: inline-block;
+     /* float: left; */
+    /* position: relative; */
+}
+.box3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 50px;
+    display: inline-block;
+    /* float: left; */
+    /* position: relative;
+    top: -18px;
+    left: 210px; */
+}
+
+/* positon property two box we can join Relative  */
+
+/* position absolute: start to top seat a positon   */
