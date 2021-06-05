@@ -54,7 +54,55 @@ overflow:- Add a container element (like <div>) with overflow-x:auto around the 
   
 	   
 	   
-	   
+		======================
+			CLASSIFICATION
+		======================				
+
+
+clear :- This example demonstrates how clear the sides of other floating elements.
+
+
+
+cursor :- This example demonstrates how to change the cursor.
+
+Auto
+Crosshair
+Default
+Pointer
+Move
+e-resize
+ne-resize
+nw-resize
+n-resize
+se-resize
+sw-resize
+s-resize
+w-resize
+text
+wait
+help
+
+display :- This example demonstrates how to display an element as an inline element.
+How to display an element as a block element
+This example demonstrates how to display an element as a block element.
+
+float :- A simple use of the float property
+Let an image float to the right in a paragraph.
+
+Position:relative
+This example demonstrates how to position an element relative to its normal position.
+
+Position:absolute
+This example demonstrates how to position an element using an absolute value.
+
+visibility :- how to make an element invisible. Do you want the element to show or not?
+
+
+
+
+===================================================================================
+                              05/06/2021
+===================================================================================	   
 	   
 	   
 	   
