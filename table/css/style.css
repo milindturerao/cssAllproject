@@ -30,7 +30,7 @@ th,td{
     /* height: 50px; */
     padding: 10px;
     border-bottom: 2px solid chartreuse;
-}
+  }
 
 tr:nth-child(even):hover{
     font-family: Georgia, 'Times New Roman', Times, serif;
