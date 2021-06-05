@@ -1,17 +1,30 @@
-/* .box{
-    width: 200px;height: 200px;
+.box1{
+    width: 400px;height: 400px;
     margin-top: 40px;
     margin-left: 10px;
-    float: left;
-    clear: left;
+ 
+    background-color: gold;
     color: white;
-    background-color: blue;
-} */
+    /* display: block;
+    display: none; */
+    text-align: left;
+}
+
+
 
 p{
-    display: inline;
+    /* display: inline; */
     margin: 10px;
+    background-color: gold;
+    visibility: visible;
 }
-h1,div{
-    display: none;
+h1{
+    background-color: green;
+    visibility: hidden;
+    /* display: none; */
+}
+img{
+    width: 100px;height: 100px;
+    float:left;
+    /* display: inline; */
 }
