@@ -1,8 +1,17 @@
-.box{
+/* .box{
     width: 200px;height: 200px;
-    margin-top: 10px;
+    margin-top: 40px;
     margin-left: 10px;
     float: left;
     clear: left;
+    color: white;
     background-color: blue;
+} */
+
+p{
+    display: inline;
+    margin: 10px;
+}
+h1,div{
+    display: none;
 }
