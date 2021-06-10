@@ -1,0 +1,14 @@
+ol{
+    /* list-style-type:('\ 003E'); */
+    list-style-position: inside;
+    /* list-style-image: url(../img/200w.webp); */
+    /* display: marker;
+    marker-offset: 5px; */
+
+}
+ul{
+    list-style-position: inside;
+    /* list-style-image: url(../img/pngtree-happy.jpg); */
+    /* display: marker;
+    marker-offset: 5px; */
+}

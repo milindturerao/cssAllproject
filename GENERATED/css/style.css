@@ -1,0 +1,23 @@
+p:before{
+    content: " M ";
+    color: darksalmon;
+    font-size: 4rem;
+}
+a{
+    font-size: 2rem;
+}
+
+a:link{
+    color: rgb(146, 91, 248);
+}
+
+/* a:visited{
+    color: white;
+    background-color: green;
+} */
+
+a:active{
+    color: white;
+    background-color: rgb(140, 42, 231);
+}
+
